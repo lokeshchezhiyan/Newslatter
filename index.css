@@ -1,0 +1,53 @@
+
+.box{
+    width: 520px;
+    height: 230px;
+    border: solid white;
+    background-color: white;
+    margin-left: 270px;
+    margin-top: 130px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px 10px whitesmoke;
+    display: block;
+}
+body{
+    background-color: #000;
+}
+.h1{
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+
+}
+.group{
+    text-align: center;
+    font-size: 15px;
+}
+.email{
+border: solid whitesmoke;
+width: 290px;
+height: 30px;
+margin-left: 80px;
+}
+.sub{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    height: 30px;
+
+}
+.para{
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
